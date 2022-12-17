@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(225, 217, 217);
+}
+
+.header h1 {
+  color: rgb(46, 30, 30);
+  text-align: justify;
+  font-size: 40px;
+  box-shadow: 0 4px 4px gray;
+}
+
+.sub-heading h2 {
+  margin-left: 3px;
+}
+
+p {
+  margin-left: 3px;
+}
+
+.list p {
+  margin-left: 3px;
+}
+
+#map {
+  margin-bottom: 15px;
+}
+
+.footer {
+  color: black;
+}
