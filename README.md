@@ -7,15 +7,15 @@ Produced at the JavaScript Fall Semester 2022 at the Redi School of Digital Inte
 
 New York City (NYC) consist of five boroughs, namely:
 
-The Bronx
-Brooklyn
-Manhattan
-Queens
-Staten Island
+-The Bronx
+-Brooklyn
+-Manhattan
+-Queens
+-Staten Island
 
 #
 At the moment, this web app shows only those that are “live”, that is, the kiosk approved, installed, and currently working.
 
 # Appreciation
 
-cedit to the City of New York for the provision of the free API. 
+Credit to the City of New York for the provision of the free API. 
